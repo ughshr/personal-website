@@ -68,6 +68,7 @@ nav ul li a:hover{
     color: #d48c9f;
     margin-bottom: 25px;
     letter-spacing: 2px;
+    line-height: 1.1;
 }
 
 .intro{
@@ -132,7 +133,7 @@ nav ul li a:hover{
     }
 
     .hero h1{
-        font-size: 36px;
+        font-size: 30px;
         line-height: 1.2;
     }
 
