@@ -56,12 +56,12 @@ nav ul li a:hover{
 /* HERO SECTION */
 
 .hero{
-    min-height: 85vh;
+    min-height: 75vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 0 10%;
-    margin-top: -60px;
+    padding: 0 8%;
+    margin-top: -30px;
 }
 
 .hero h1{
@@ -81,13 +81,12 @@ nav ul li a:hover{
 /* CARDS */
 
 .card{
-    background-color: #fff;
-    margin: 0 auto 20px;
-    width: 80%;
-    padding: 40px;
-    border-radius: 25px;
-    box-shadow: 0 4px 20px rgba(212, 140, 159, 0.1);
-    transition: 0.3s;
+    background-color: #lelele;
+    margin: 10px auto 20px;
+    padding: 30px:
+    border-radius: 12px;    
+    max-width: 800px;
+    color: #dcdcdc;
 }
 
 .card:hover{
@@ -134,8 +133,9 @@ nav ul li a:hover{
     }
 
     .hero h1{
-        font-size: 30px;
-        line-height: 1.2;
+        font-size: 26px;
+        line-height: 1.4;
+        letter-spacing: 1px;
     }
 
     .intro{
